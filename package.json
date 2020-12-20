@@ -1,0 +1,23 @@
+{
+  "name": "V11 Bot",
+  "version": "0.0.1",
+  "description": "cross",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "moment": "^2.29.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
